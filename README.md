@@ -33,6 +33,4 @@ These containers offer great flexibility: they can be created, deployed, copied,
 - **Django** Project
 - **Python**
 - **PostgreSQL**
-```
 
----
